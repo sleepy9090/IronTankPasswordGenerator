@@ -1,7 +1,7 @@
 /**
  ************************************************************************************************************************
  *
- *  @file                   lolo2passgen.cpp
+ *  @file                   irontankpasgen.cpp
  *  @brief                  Iron Tank Password Generator
  *  @copyright              2019 Shawn M. Crawford
  *  @date                   March 22nd, 2019
